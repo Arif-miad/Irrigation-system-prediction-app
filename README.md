@@ -37,8 +37,8 @@ It helps farmers and agricultural researchers to:
 
 ## 🖼️ Demo Screenshot
 
-![Dashboard Screenshot](https://user-images.githubusercontent.com/YOUR_USERNAME/screenshot.png)
-*The screenshot shows the app UI and example visualizations.*
+![Dashboard Screenshot](https://github.com/Arif-miad/Irrigation-system-prediction-app/blob/main/image/irrigation.PNG)
+
 
 ---
 
@@ -103,4 +103,3 @@ This project is **for educational and research purposes only**. Do not use it fo
 ---
 
 
-চাও কি আমি সেটাও বানাই?
